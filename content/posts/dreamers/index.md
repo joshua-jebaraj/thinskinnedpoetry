@@ -52,6 +52,6 @@ caption="Antonio Vivaldi"
 command="Original" >}}
 
 ## Radio
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3DamFFqW32WihKkTVlwTYQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/psuRGfAaju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jOlYUMMsCacMm3xcrYRLl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/3LiztfE1X7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
