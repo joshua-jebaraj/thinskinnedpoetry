@@ -2,7 +2,7 @@
 date: "2020-11-28"
 title: "Home"
 ---
-I am Joshua Jebaraj and this is my blog. This is where I publish poems about anything that piques my desire to write. Thanks for stopping by. 
+I am Joshua Jebaraj and this is my blog. This is where I write and publish my poems. Thanks for stopping by. 
 
 Go to the [Posts](/posts/) section to read my poems.
 
